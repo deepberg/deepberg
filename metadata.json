@@ -1,0 +1,9 @@
+{
+  "name": "Deepberg AI",
+  "description": "A high-performance AI creative platform for generating text, images, video, and audio using Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
